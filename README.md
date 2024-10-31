@@ -6,31 +6,34 @@
 
 ## 🛠️ My Skills
 
+
 <br>
-<div align="left">
-<h3>Languages:</h3>
-<p>
+
+### 📝 Languages
+
+
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bash,ruby,php" />
   </a>
-</p>
+
 </div>
 <div align="rigth">
-<h3>💻Technologies:</h3>
-<p>
+  
+### ⚙️ Tech
+
+
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,vscode,windows,linux,notion" />
   </a>
-</p>
-</div>
-<br>
+
+<br>  
 
 <hr width="100%" >
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+## <picture> <img src = "https://github.com/Alvarogm27/Images/blob/main/Statistics.gif" width = 50px>  </picture> Github Stats
 <br>
 <p>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alvarogm27&langs_count=10&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Alvarogm27" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alvarogm27&langs_count=10&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Alvarogm27" width="410"/>
 </p>
 <p>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Alvarogm27&show_icons=true&locale=en&theme=chartreuse-dark" alt="Alvarogm27" width="410"/>
@@ -40,8 +43,10 @@
 <hr width="100%" >
 
 ## Connect with me
-<p align="left">
 
+<p align="left">
+<a href="https://www.linkedin.com/in/%C3%A1lvaro-garc%C3%ADa-m%C3%A1rquez-b3487330a/"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="linkedin" width="50"></a>
+<a href="mailto:alvarogarciamarquez.ccg@gmail.com"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" alt="linkedin" width="50"></a>
 </p>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Alvarogm27&label=Profile%20views&color=0e75b6&style=flat" alt="Alvarogm27" /> </p>
